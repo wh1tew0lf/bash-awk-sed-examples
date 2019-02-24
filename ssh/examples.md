@@ -1,5 +1,5 @@
-SSH help examples
-=================
+SSH examples
+============
 
 Simply if you want to open connection to some server:
 ```
